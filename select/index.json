@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "shower",
+  "base_artist": "水槽",
+  "createdAt": "2026-02-08T08:01:04.394314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Silver Screen Shower Scene (Jacques Lu Cont remix)",
+      "artist": "Felix da Housecat",
+      "has_synced": false,
+      "path": "select/01_Silver_Screen_Shower_Scene_(Jacques_Lu_Cont_remix)_Felix_da_Housecat.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shower Your Love (With Shenai)",
+      "artist": "Kula Shaker",
+      "has_synced": true,
+      "path": "select/02_Shower_Your_Love_(With_Shenai)_Kula_Shaker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Standing In The Shower...Thinking",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/03_Standing_In_The_Shower...Thinking_Jane's_Addiction.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shower Scene",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/04_Shower_Scene_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Standing In The Shower...Thinking (Demo)",
+      "artist": "Jane's Addiction",
+      "has_synced": false,
+      "path": "select/05_Standing_In_The_Shower...Thinking_(Demo)_Jane's_Addiction.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Champagne Shower",
+      "artist": "Future feat. Rich Homie Quan",
+      "has_synced": true,
+      "path": "select/06_Champagne_Shower_Future_feat._Rich_Homie_Quan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Silver Screen (Shower Scene)",
+      "artist": "Felix da Housecat",
+      "has_synced": false,
+      "path": "select/07_Silver_Screen_(Shower_Scene)_Felix_da_Housecat.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silver Screen Shower Scene (Adult Remix)",
+      "artist": "Felix da Housecat",
+      "has_synced": false,
+      "path": "select/08_Silver_Screen_Shower_Scene_(Adult_Remix)_Felix_da_Housecat.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silver Screen Shower Scene (Fc Kahuna Remix)",
+      "artist": "Felix da Housecat",
+      "has_synced": false,
+      "path": "select/09_Silver_Screen_Shower_Scene_(Fc_Kahuna_Remix)_Felix_da_Housecat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Silver Screen Shower Scene (Ladytron Live at Eric's Mix)",
+      "artist": "Felix da Housecat",
+      "has_synced": false,
+      "path": "select/10_Silver_Screen_Shower_Scene_(Ladytron_Live_at_Eric's_Mix)_Felix_da_Housecat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Silver Screen Shower Scene (Laurent Garnier Remix)",
+      "artist": "Felix da Housecat",
+      "has_synced": true,
+      "path": "select/11_Silver_Screen_Shower_Scene_(Laurent_Garnier_Remix)_Felix_da_Housecat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "shower",
+      "artist": "水槽, john",
+      "has_synced": false,
+      "path": "select/pl_01_shower_水槽,_john.txt"
+    }
+  ]
+}
